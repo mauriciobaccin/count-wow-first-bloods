@@ -1,6 +1,6 @@
 # First blood count
 
-The primary objective of this project is to tally all the first bloods of each boss within any guild, provided you have exported the statistic bosses data from Method Raid Tools (MRT).
+The primary objective of this project is to tally all the first bloods of each boss and should work for any guild, provided you have exported the statistic bosses data from Method Raid Tools (MRT).
 
 ### How to Configure/Run:
 1. Ensure GIT and Node are installed and properly configured.
